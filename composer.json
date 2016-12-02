@@ -1,6 +1,6 @@
 {
-  "name": "irazasyed/telegram-bot-sdk",
-  "description": "The Unofficial Telegram Bot API PHP SDK",
+  "name": "nikolay-zakharov/telegram-bot-sdk",
+  "description": "The Unofficial Telegram Bot API PHP SDK (Laravel 4.1)",
   "keywords": ["telegram", "telegram bot", "telegram bot api", "telegram sdk", "telegram php", "laravel telegram", "laravel"],
   "type": "library",
   "homepage": "https://github.com/irazasyed/telegram-bot-sdk",
@@ -10,12 +10,17 @@
       "name": "Syed Irfaq R.",
       "email": "syed+gh@lukonet.com",
       "homepage": "https://github.com/irazasyed"
+    },
+    {
+      "name": "Nikolay Zakharov",
+      "email": "dev@nikolay-zakharov.ru",
+      "homepage": "https://github.com/nikolay-zakharov"
     }
   ],
   "require": {
     "php": ">=5.5.0",
     "guzzlehttp/guzzle": "~6.0",
-    "illuminate/support": "~5.0",
+    "laravel/framework": "4.1.*",
     "league/event": "^2.1"
   },
   "require-dev": {

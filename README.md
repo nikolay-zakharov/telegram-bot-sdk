@@ -12,6 +12,9 @@ Telegram Bot API - PHP SDK
 <a href="https://packagist.org/packages/irazasyed/telegram-bot-sdk"><img src="https://img.shields.io/packagist/dt/irazasyed/telegram-bot-sdk.svg?style=flat-square" alt="Total Downloads"/></a>
 </p>
 
+## This fork info
+Forked to support Laravel 4.1.
+
 ## Overview
 
 > Telegram Bot API is an HTTP-based interface created for developers keen on building bots for Telegram.
